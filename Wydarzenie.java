@@ -1,5 +1,5 @@
 
-
+//teesstt
 public class Wydarzenie {
 	private String dataStart,dataStop;;
 	private String timeStart,timeStop;
