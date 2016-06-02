@@ -1,0 +1,90 @@
+body{
+	background-color: #303030;
+	color: #ffffff;
+}
+
+#tabela{
+	color: $ffffff;
+	background-color: #505050;
+	font-size: 18px;
+}
+
+a:link{
+	color: #DF9959;
+}
+a:link:hover{
+	color: #BD7737;
+}
+
+a:visited{
+	color: #DF9959;
+}
+
+h1{
+	text-align: center;
+	font-size:48px;
+}
+
+#container{
+	width: 460px;
+	margin: auto;
+	background-color: green;
+}
+
+#plan{
+	width: 230px;
+	height: 130px;
+	background-color: #506023;
+	text-align: center;
+	font-size: 48px;
+	float: left;
+}
+
+#plan a{
+	background-color: #505050;
+	color: #ffffff;
+	text-decoration: none;	
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+#plan a:hover{
+	background-color: #606060;
+}
+
+
+#ical{
+	width: 230px;
+	height: 130px;
+	background-color: #503533;
+	text-align: center;
+	font-size: 48px;
+	float: left;
+}
+
+#ical a{
+	background-color: #503575;
+	color: #ffffff;
+	text-decoration: none;	
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+#ical a:hover{
+	background-color: #604585;
+}
+
+.kierunekLink{
+	font-size: 18px;
+	color: green;
+	text-decoration: none;
+}
+.kierunekLink:hover{
+	color: #BD7737;
+}
+
+.planLink{
+	color: #ffffff !important;
+	text-decoration: none;
+}

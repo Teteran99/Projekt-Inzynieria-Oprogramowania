@@ -1,2 +1,0 @@
-
-Inżynieria Oprogramowania - Projekt
